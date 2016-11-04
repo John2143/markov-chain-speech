@@ -1,4 +1,4 @@
 *.txt
-groupchat.txt
-john.txt
-catandhat*.txt
+!groupchat.txt
+!john.txt
+!catandhat*.txt

